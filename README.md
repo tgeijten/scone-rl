@@ -18,4 +18,4 @@ The `-e` flag will cause the package to directly use the code at the repository 
 That's it! Try out the included example to get started.
 
 ## Contributors
-* Pierre Schumacher [@P-Schumacher](https://github.com/P-Schumacher)
+* [Pierre Schumacher](https://github.com/P-Schumacher)
