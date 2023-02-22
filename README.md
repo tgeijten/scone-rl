@@ -2,7 +2,7 @@
 Gym environments for biomechanics reinforcement learning research, using SCONE
 
 ## Prerequisits
-In order to use scone-rl, you
+Before you can use scone-rl, make sure the following is installed on your machine:
 * The latest version of SCONE (download [here](https://scone.software))
 * Python 3.9
 
